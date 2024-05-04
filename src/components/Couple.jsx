@@ -125,11 +125,13 @@ function Couple() {
                         <div className="info groom-info">
                             <h3>
                                 Alhaj M. Mohammed Ghouse,
+                                <br />
                                 <sub>Civil - Architect Diploma,</sub>
                             </h3>
                             <p className="mt-2 mt-lg-3">
-                                Proprietor: <strong>Image Boutique Mens & Kids Wear,</strong> P.N. Road,
-                                Adoni.
+                                Proprietor: <strong>Image Boutique Mens & Kids Wear,</strong> 
+                                <br />
+                                P.N. Road, Adoni.
                             </p>
                             {/* <p className="mt-1 mt-lg-2"> at Alur.</p> */}
                             {/* <p className="mt-2 mt-lg-3">
