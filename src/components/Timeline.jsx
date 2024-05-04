@@ -99,7 +99,7 @@ function Timeline() {
                              >
                                  <h1>Nikaah</h1>
                                  <p>
-                                     On Thursday, 05<sup>th</sup> May, 2023,
+                                     On Thursday, 09<sup>th</sup> May, 2023,
                                      <br />
                                      29<sup>th</sup> Shawwal-ul-Mukarram, 1445 Hijri,
                                      <br /> Time: 12:15 PM.
